@@ -1,4 +1,4 @@
-- **Random Password Generator**
+ **Random Password Generator**
 
 This is a Python project I made while learning Python.
 
